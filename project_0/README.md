@@ -1,1 +1,2 @@
-Проект 0 Угадай число
+# My Data Sciense project (learning)
+Homework for D.S. study
