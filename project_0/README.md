@@ -1,9 +1,28 @@
-# My Data Sciense project (learning)
-Homework for D.S. study
-From the [Skillfactory Data Science course](https://lms.skillfactory.ru/courses/course-v1:SkillFactory+DSPR-2.0+14JULY2021/course/)
+# Проект 0. Угадай число
 
-## Проекты
+## Оглавление
+[1. Описание проекта](https://github.com/Masyuk81/My_study_for_DS/tree/main/project_0)
+[2. Какой кейс решаем](https://github.com/Masyuk81/My_study_for_DS/tree/main/project_0)
+[3. Краткая информация о данных](https://github.com/Masyuk81/My_study_for_DS/tree/main/project_0)
+[4. Этапы работы над пректом](https://github.com/Masyuk81/My_study_for_DS/tree/main/project_0)
+[5. Результат](https://github.com/Masyuk81/My_study_for_DS/tree/main/project_0)
+[6. Выводы](https://github.com/Masyuk81/My_study_for_DS/tree/main/project_0)
 
-* [Проект 0. Игра: Угадай число](https://github.com/Masyuk81/My_study_for_DS/tree/main/project_0)
-* [Проект 1. ______](_____)
-* [Проект 2. ______](_____)
+### Описание проекта
+Угадать загаданное компьютером число за мимнимальное количество попыток.
+
+### Какой кейс решаем?
+Нужно написать программу, которая угадывает число за минимальное количество попыток.
+
+**Условия соревнования:**
+- Компьютер загадывает целое число, от 0 до 100 и нам нужно его угадать. Под "угадать" имеем ввиду программу, которую надо написать.
+- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
+
+**Метрика качества**
+Результаты оцениваются по среднему количеству попытьок при 1000 повторений.
+
+**Что практикуем**
+Учимся писать хороший код на Python.
+
+### Краткая информация о данных
+****
