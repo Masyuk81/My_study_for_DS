@@ -1,5 +1,6 @@
 import numpy as np
 
-a = np.uint8(-456)
-print(a)
-print(type(a))
+vec = np.array([2,7,18,28,18,1,8,4])
+print(vec.min())
+print(np.max(vec))
+print(vec.mean())
